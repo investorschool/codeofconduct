@@ -1,4 +1,4 @@
-# Contributor Covenant Code of Conduct
+# Investor School Slack Group Code of Conduct
 
 ## Our Pledge
 
