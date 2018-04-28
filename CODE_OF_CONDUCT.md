@@ -2,7 +2,7 @@
 
 ## Our Community
 
-Investor School is a community of angel and startup investors--alumni of the [YC Startup Investor School](https://investor.startupschool.org/) workshop held in March 2018. We maintain a Slack Group and host regular events in the Bay Area. The group was launched by YCombinator but is now self-governed and is no longer affiliated with YCombinator.  
+Investor School is a community of angel and startup investors--alumni of the [YC Startup Investor School](https://investor.startupschool.org/) workshop held in March 2018. We maintain a Slack Group and host regular events in the Bay Area. The group was launched by YCombinator but is now self-governed and is no longer YC affiliated.  
 
 The Slack Group is maintained by [Brad Flora](https://angel.co/brad-flora) (YC S11), [Tim Suzman](https://angel.co/tim-s) (YC S11), and [Judy Yang](https://angel.co/judy-yang). Inquiries about channel creation and membership invitations can be directed to any of these administrators. Events are organized and led by [Christopher Fong](https://angel.co/christopher-fong), [Anand Krishna](https://angel.co/anand108), and [Aaron White](http://www.vistawealth.com/our-team/aaron-white). [Alan Glennon](https://angel.co/glennon) provides at-large administrative support.
 
