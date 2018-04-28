@@ -45,7 +45,7 @@ Instances of abusive, harassing, or otherwise unacceptable behavior may be repor
 Organizing team members who do not follow or enforce this Code of Conduct in good faith may face temporary or permanent repercussions as determined by other members of the project's leadership.
 
 ## Join Us 
-The community welcomes any new interested participant who, 1) is an accredited investor as defined by SEC Rule 501 of Regulation D, 2) has a positive relationship with YCombinator, and 3) has made one or more direct investments in a YCombinator-backed company.
+The community welcomes any new interested participant who, 1) is an accredited investor as defined by SEC Rule 501 of Regulation D; 2) has a positive relationship with YCombinator; and 3) has made one or more direct investments in a YCombinator-backed company.
 
 ## Attribution
 
