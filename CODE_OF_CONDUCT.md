@@ -49,4 +49,6 @@ The community welcomes any new interested participant who, 1) is an accredited i
 
 ## Attribution
 
-This Code of Conduct is adapted from the Contributor Covenant, version 1.4, available at http://contributor-covenant.org/version/1/4
+This Code of Conduct is adapted from the Contributor Covenant, version 1.4, available at http://contributor-covenant.org/version/1/4  
+  
+version: 29 April 2018
