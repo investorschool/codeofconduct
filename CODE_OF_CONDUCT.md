@@ -2,11 +2,19 @@
 
 ## Our Community
 
+:pencil2: DRAFT :pencil2: DRAFT :pencil2: DRAFT :pencil2:
+
 Investor School is a community of angel and startup investors--alumni of the [YC Startup Investor School](https://investor.startupschool.org/) workshop held in March 2018. We maintain a Slack Group and host regular events in the Bay Area. The group was launched by YCombinator but is now self-governed and no longer YC affiliated.  
+
+:pencil2: DRAFT :pencil2: DRAFT :pencil2: DRAFT :pencil2:  
+NOTE: THIS IS A DRAFT DOCUMENT. THE INDIVIDUALS BELOW MAY NOT BE ASSOCIATED OR PARTICIPATING AS ORGANIZERS WITH THE COMMUNITY.  
+:pencil2: DRAFT :pencil2: DRAFT :pencil2: DRAFT :pencil2:  
 
 The Slack Group is maintained by [Brad Flora](https://angel.co/brad-flora) (YC S11), [Tim Suzman](https://angel.co/tim-s) (YC S11), and [Judy Yang](https://angel.co/judy-yang). Inquiries about channel creation and membership invitations can be directed to any of these administrators. Events are organized and led by [Christopher Fong](https://angel.co/christopher-fong), [Anand Krishna](https://angel.co/anand108) (YC S17), and [Aaron White](http://www.vistawealth.com/our-team/aaron-white). [Alan Glennon](https://angel.co/glennon) provides at-large administrative support.  
 
-Community discussions center on startups, founders, deals, and investors. It is the responsibility of all participants to honor these entrepreneurial endeavors by being prudent and circumspect about the sharing of information both within and external to the group. Material denoted by an author as confidential should be considered private to the Investor School community and may only be shared among members.
+Community discussions center on startups, founders, deals, and investors. It is the responsibility of all participants to honor these entrepreneurial endeavors by being prudent and circumspect about the sharing of information both within and external to the group. Material denoted by an author as confidential should be considered private to the Investor School community and may only be shared among members.  
+
+:pencil2: DRAFT :pencil2: DRAFT :pencil2: DRAFT :pencil2:  
 
 
 ## Code of Conduct
@@ -48,6 +56,9 @@ Instances of abusive, harassing, or otherwise unacceptable behavior may be repor
 Organizing team members who do not follow or enforce this Code of Conduct in good faith may face temporary or permanent repercussions as determined by other members of the project's leadership.
 
 ## Join Us 
+
+:pencil2: DRAFT :pencil2: DRAFT :pencil2: DRAFT :pencil2:
+
 The community welcomes any new interested participant who, 1) is an accredited investor as defined by SEC Rule 501 of Regulation D; 2) has a positive relationship with YCombinator; and 3) has made one or more direct investments in a YCombinator-backed company.
 
 ## Attribution
