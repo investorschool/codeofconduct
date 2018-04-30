@@ -4,7 +4,7 @@
 
 :pencil2: DRAFT :pencil2: DRAFT :pencil2: DRAFT :pencil2:
 
-Investor School is a community of angel and startup investors--alumni of the [YC Startup Investor School](https://investor.startupschool.org/) workshop held in March 2018. We maintain a Slack Group and host regular events in the Bay Area. The group was launched by YCombinator but is now self-governed and no longer YC affiliated.  
+Investor School is a community of angel and startup investors--alumni of the [YC Startup Investor School](https://investor.startupschool.org/) workshop held in March 2018. We maintain a Slack Group and host occasional events in the Bay Area. The group was launched by YCombinator but is now self-governed and no longer YC affiliated.  
 
 :pencil2: DRAFT :pencil2: DRAFT :pencil2: DRAFT :pencil2:  
 NOTE: THIS IS A DRAFT DOCUMENT. THE INDIVIDUALS BELOW MAY NOT BE ASSOCIATED OR PARTICIPATING AS ORGANIZERS WITH THE COMMUNITY.  
