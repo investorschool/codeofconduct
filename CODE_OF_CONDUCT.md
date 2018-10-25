@@ -2,15 +2,17 @@
 
 ## Our Community
 
-Investor School is a community of angel and startup investors--alumni of the [YC Startup Investor School](https://investor.startupschool.org/) workshop held in March 2018. We maintain a Slack Group and host occasional events in the Bay Area. The group was launched by YCombinator but is now self-governed and no longer YC affiliated.  
-
-The Slack Group is maintained by [Brad Flora](https://angel.co/brad-flora) (YC S11), [Tim Suzman](https://angel.co/tim-s) (YC S11), and [Judy Yang](https://angel.co/judy-yang). Inquiries about channel creation and membership invitations can be directed to any of these administrators. Events are organized and led by [Christopher Fong](https://angel.co/christopher-fong), [Anand Krishna](https://angel.co/anand108) (YC S17), and [Aaron White](http://www.vistawealth.com/our-team/aaron-white). [Alan Glennon](https://angel.co/glennon) provides at-large administrative support.  
-
-Community discussions center on startups, founders, deals, and investors. It is the responsibility of all participants to honor these entrepreneurial endeavors by being prudent and circumspect about the sharing of information both within and external to the group. Material denoted by an author as confidential should be considered private to the Investor School community and may only be shared among members.  
+Investor School is a community of accredited angel and startup investors--alumni of the invitation-only [Y Combinator (YC) Startup Investor School](https://investor.startupschool.org/) workshop held in March 2018. Following that workshop, participants self-organized to share information, cultivate professional relationships, and source investment deals. The group thus indirectly was launched by YC but is now self-governed and is not affiliated. Many Investor School members maintain close ties with YC as former YC founders and active investors. Further, despite the "school" name, the vast majority of, if not all, Investor School members are accomplished technology startup entrepreneurs or experienced software executives.
+  
+For its members and partners, Investor School provides value as infrastructure to 1) communicate and connect to excellent, well-connected active angel investors, and 2) early access to some of the world's most-promising emerging technology companies. The group maintains a private Slack workgroup and organizes monthly events in the Bay Area. Recent Investor School meetings featured prominent speakers such as Sri Chandrasekar (Partner, Point72), Tim Draper (Founder, DFJ), Ben Narasin (Venture Partner, NEA), and Priya Rajan (Director of Early Stage, SVB). The meetups routinely also hosts 5-10 highly curated pitches from very early companies. 
+  
+The Slack Group is administered by [Brad Flora](https://angel.co/brad-flora) (YC S11), [Alan Glennon](https://angel.co/glennon), PhD, [Tim Suzman](https://angel.co/tim-s) (YC S11), and [Judy Yang](https://angel.co/judy-yang). Inquiries about channel creation and membership invitations can be directed to any of these administrators. The group does not make collective investments; is volunteer led; and no dues or fees are collected. The community is committed to fostering a welcoming, harassment-free environment for its members.
 
 ## Code of Conduct
 
 In the interest of fostering an open and welcoming environment, we as members pledge to making participation in our community a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, gender identity and expression, level of experience, nationality, personal appearance, race, religion, or sexual identity and orientation.
+
+Community discussions center on startups, founders, deals, and investors. It is the responsibility of all participants to honor these entrepreneurial endeavors by being prudent and circumspect about the sharing of information both within and external to the group. Material denoted by an author as confidential should be considered private to the Investor School community and may only be shared among members.  
 
 ## Our Standards
 
@@ -54,4 +56,4 @@ The community welcomes any new interested participant who, 1) is an accredited i
 
 This Code of Conduct is adapted from the Contributor Covenant, version 1.4, available at http://contributor-covenant.org/version/1/4  
   
-version: 1 May 2018
+version: 25 October 2018
