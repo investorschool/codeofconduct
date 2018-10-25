@@ -6,13 +6,13 @@ Investor School is a community of accredited angel and startup investors--alumni
   
 For its members and partners, Investor School provides value as infrastructure to 1) communicate and connect to excellent, well-connected active angel investors, and 2) early access to some of the world's most-promising emerging technology companies. The group maintains a private Slack workgroup and organizes monthly events in the Bay Area. Recent Investor School meetings featured prominent speakers such as Sri Chandrasekar (Partner, Point72), Tim Draper (Founder, DFJ), Ben Narasin (Venture Partner, NEA), and Priya Rajan (Director of Early Stage, SVB). The meetups routinely also hosts 5-10 highly curated pitches from very early companies. 
   
-The Slack Group is administered by [Brad Flora](https://angel.co/brad-flora) (YC S11), [Alan Glennon](https://angel.co/glennon), [Tim Suzman](https://angel.co/tim-s) (YC S11), and [Judy Yang](https://angel.co/judy-yang). Inquiries about channel creation and membership invitations can be directed to any of these administrators. The group does not make collective investments; is volunteer led; and no dues or fees are collected. The community is committed to fostering a welcoming, harassment-free environment for its members.
-
-Community discussions center on startups, founders, deals, and investors. It is the responsibility of all participants to honor these entrepreneurial endeavors by being prudent and circumspect about the sharing of information both within and external to the group. Material denoted by an author as confidential should be considered private to the Investor School community and may only be shared among members.  
+The Slack Group is administered by [Brad Flora](https://angel.co/brad-flora) (YC S11), [Alan Glennon](https://angel.co/glennon), PhD, [Tim Suzman](https://angel.co/tim-s) (YC S11), and [Judy Yang](https://angel.co/judy-yang). Inquiries about channel creation and membership invitations can be directed to any of these administrators. The group does not make collective investments; is volunteer led; and no dues or fees are collected. The community is committed to fostering a welcoming, harassment-free environment for its members.
 
 ## Code of Conduct
 
 In the interest of fostering an open and welcoming environment, we as members pledge to making participation in our community a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, gender identity and expression, level of experience, nationality, personal appearance, race, religion, or sexual identity and orientation.
+
+Community discussions center on startups, founders, deals, and investors. It is the responsibility of all participants to honor these entrepreneurial endeavors by being prudent and circumspect about the sharing of information both within and external to the group. Material denoted by an author as confidential should be considered private to the Investor School community and may only be shared among members.  
 
 ## Our Standards
 
@@ -56,4 +56,4 @@ The community welcomes any new interested participant who, 1) is an accredited i
 
 This Code of Conduct is adapted from the Contributor Covenant, version 1.4, available at http://contributor-covenant.org/version/1/4  
   
-version: 1 May 2018
+version: 25 October 2018
