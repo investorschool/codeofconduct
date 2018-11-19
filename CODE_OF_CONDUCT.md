@@ -50,7 +50,7 @@ Organizing team members who do not follow or enforce this Code of Conduct in goo
 
 ## Join Us  
 
-The community welcomes any new interested participant who, 1) is an accredited investor as defined by SEC Rule 501 of Regulation D; 2) has a positive relationship with YCombinator; and 3) has made one or more direct investments in a YCombinator-backed company.
+The community welcomes any new interested participant who, 1) is an accredited investor as defined by SEC Rule 501 of Regulation D; 2) is an active startup angel investor; 3) has a positive relationship with Y Combinator; and 4) has made one or more direct investments in a Y Combinator-backed company.
 
 ## Attribution
 
