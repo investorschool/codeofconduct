@@ -50,7 +50,7 @@ Organizing team members who do not follow or enforce this Code of Conduct in goo
 
 ## Join Us  
 
-The community welcomes any new interested participant who, 1) is an accredited investor as defined by SEC Rule 501 of Regulation D; 2) is an active startup angel investor; 3) has a positive relationship with Y Combinator; and 4) has made one or more direct investments in a Y Combinator-backed company.
+Though our membership is closed, we hold events that sometimes are open to the wider community. The community welcomes interested people who, 1) are accredited investors as defined by SEC Rule 501 of Regulation D; 2) are active startup angel investors; 3) have a positive relationship with Y Combinator; 4) have made one or more direct investments in a Y Combinator-backed company; and 5) have familiarized themselves with the YCSIS Startup School materials. These materials are a primer on the etiquette, workflows, and financial realities of investing in YC-type startups.
 
 ## Attribution
 
